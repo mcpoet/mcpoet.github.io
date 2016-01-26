@@ -606,7 +606,7 @@ pre .deletion {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: auto;
+  margin-left: 20px;
 }
 .entry-content a[title*="Flickr"] img {
   height: auto !important;
