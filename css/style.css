@@ -794,7 +794,10 @@ pre .deletion {
   float: left;
   margin-right: 10px;
 }
-.article-tag-list-item:before {
+.align-left {
+  margin-left: 20px;
+}
+:before {
   content: "#";
 }
 .article-gallery {
